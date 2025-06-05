@@ -43,3 +43,4 @@ PRODUCT_COPY_FILES += \
 
 # Inherit proprietary targets
 $(call inherit-product, vendor/xiaomi/miatoll/miatoll-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
